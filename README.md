@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+my name is shrief iam a student at my third year in computer science bachelors degree
